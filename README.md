@@ -7,7 +7,7 @@ todo lo relacionado en carrajeria para el hogar,motos y vehiculos
 
 ---
 
-## 🚪 ¿Quiénes somos?
+## ¿Quiénes somos?
 Somos **Cerrajería Barbosa**, especialistas en todo lo relacionado con **llaves, programación y seguridad automotriz**.  
 Tu confianza es nuestra prioridad 💯.  
 
