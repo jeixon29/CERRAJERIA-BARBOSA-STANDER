@@ -1,5 +1,5 @@
 # CERRAJERIA-BARBOSA-STANDER
-Especialistas en llaves con chip,progamacion de llave control. 
+Especialistas en llaves con chip. 
 todo lo relacionado en carrajeria para el hogar,motos y vehiculos 
 
 
