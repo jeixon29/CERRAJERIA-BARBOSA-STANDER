@@ -153,6 +153,28 @@
     <section id="ubicacion">
         <h2>Ubicación</h2>
         <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.123456789!2d-73.000000!3d6.500000!2m3!1f0!2f0!3f0!3
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.123456789!2d-73.000000!3d6.500000!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4420abcdef1234%3A0xabcdef1234567890!2sBarbosa%2C%20Santander!5e0!3m2!1ses!2sco!4v1692835200000" 
+            allowfullscreen="" loading="lazy">
+        </iframe>
+    </section>
+
+    <!-- Sección Reseñas -->
+    <section id="resenas">
+        <h2>Reseñas</h2>
+        <div class="review">
+            <p>"Excelente servicio, programaron mi llave con chip en minutos!" - Cliente satisfecho</p>
+        </div>
+        <div class="review">
+            <p>"Profesionales y rápidos, totalmente recomendados." - Cliente satisfecho</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Cerrajería Barbosa | Todos los derechos reservados</p>
+    </footer>
+
+</body>
+</html>
 
 
