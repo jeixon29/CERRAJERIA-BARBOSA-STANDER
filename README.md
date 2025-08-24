@@ -2,7 +2,7 @@
 Especialistas en llaves con chip. 
 todo lo relacionado en carrajeria para el hogar,motos y vehiculos 
 
-](https://github.com/TU_USUARIO/TU_REPO/blob/main/cerrajeria-barbosa-lock.svg)
+
 
 
 ---
