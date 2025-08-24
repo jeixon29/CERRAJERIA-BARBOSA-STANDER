@@ -44,3 +44,12 @@ Tu confianza es nuestra prioridad 💯.
 
 ✨ *Innovación y confianza en cada llave que hacemos*  
 
+<!-- Imagen en la misma carpeta -->
+<img src="logo.png" alt="Logo Cerrajería Barbosa" width="200">
+
+<!-- Imagen en subcarpeta -->
+<img src="img/llaves.jpg" alt="Llaves programadas" width="300">
+
+<!-- Imagen desde enlace externo -->
+<img src="https://tusitio.com/imagen.jpg" alt="Servicios de cerrajería" width="400">
+
