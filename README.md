@@ -2,8 +2,20 @@
 Especialistas en llaves con chip. 
 todo lo relacionado en carrajeria para el hogar,motos y vehiculos 
 
+<!-- Icono minimalista candado – Cerrajería Barbosa -->
+<svg width="180" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .navy { fill: #0b2a4a; }
+      .gold { fill: #d4a017; }
+      .hole { fill: #0b2a4a; }
+    </style>
+  </defs>
+  <path class="navy" d="M64 96a64 64 0 1 1 128 0v16h-24V96a40 40 0 1 0-80 0v16H64V96z"/>
+  <rect x="48" y="112" width="160" height="112" rx="18" ry="18" class="gold"/>
+  <rect x="48" y="112"
 
-![Logo Cerrajería Barbosa](https://github.com/jeixon29/CERRAJERIA_BARBOSA_STANDER/blob/main/logo.png)
+
 
 ---
 
