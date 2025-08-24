@@ -1,55 +1,47 @@
-# CERRAJERIA-BARBOSA-STANDER
-Especialistas en llaves con chip. 
-todo lo relacionado en carrajeria para el hogar,motos y vehiculos 
+# 🔑 Cerrajería Barbosa
 
-
-
-
----
-
-## ¿Quiénes somos?
-Somos especialistas en todo lo relacionado con **llaves, programación y seguridad automotriz**.  
-Tu confianza es nuestra prioridad.  
+**Confianza y seguridad en cada llave.**  
+📍 Barbosa, Santander – Colombia  
+📞 Cel: **322 949 5816** | ☎️ Llamadas: **314 481 6095**  
+📱 WhatsApp: [Abrir chat](https://wa.me/573229495816)  
+🌐 Facebook: [Cerrajería Barbosa STDER](https://www.facebook.com/cerrajeriabarbosastder)  
 
 ---
 
-## 🛠️ Nuestros servicios
-- 🔐 Programación de **llaves con chip**
-- 🆕 Creación de llaves desde cero (pérdida total)
-- 🎛️ Programación de **controles y alarmas originales**
-- 🛒 Venta de **insumos y repuestos de cerrajería**
-- 🚘 Servicios para **hogar, motos y vehículos**
+## 🛠️ Servicios
+- 🔐 Programación de llaves con chip (duplicados y pérdida total).  
+- 🚗 Programación de alarmas originales.  
+- 🔑 Copia de llaves tradicionales y de seguridad.  
+- ⚡ Venta de insumos y repuestos eléctricos.  
+- 🛠️ Reparación de electrodomésticos.  
 
 ---
 
-## 📸 Galería
-
-| Llaves y Programación | Servicios |
-|------------------------|-----------|
-| ![Programación de llaves](https://github.com/jeixon29/CERRAJERIA_BARBOSA_STANDER/blob/main/llaves.jpg) | ![Servicios de cerrajería](https://github.com/jeixon29/CERRAJERIA_BARBOSA_STANDER/blob/main/servicios.jpg) |
-
----
-
-## 📍 Ubicación
-📌 Barbosa, Santander – Colombia  
+## 🖼️ Identidad Visual
+<p align="center">
+  <img src="cerrajeria-barbosa-lock.svg" alt="Logo Cerrajería Barbosa" width="200">
+</p>
 
 ---
 
-## 📞 Contacto
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-322%20949%205816-brightgreen?logo=whatsapp&logoColor=white)](https://wa.me/573229495816)  
-[![Llamadas](https://img.shields.io/badge/Teléfono-314%20481%206095-blue?logo=phone&logoColor=white)](tel:+573144816095)  
-[![Facebook](https://img.shields.io/badge/Facebook-Cerrajería%20Barbosa%20Stder-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/CerrajeriaBarbosaStder)
+## 📦 Productos / Insumos
+| Producto | Descripción | Imagen |
+|----------|-------------|--------|
+| **Control Xhorse** | Control universal con chip programable | ![Control Xhorse](https://via.placeholder.com/100) |
+| **Llaves con chip** | Para autos Nissan, Chevrolet, Renault, etc. | ![Llaves](https://via.placeholder.com/100) |
+| **Herramientas** | Equipos T300, Key Tool Max, etc. | ![Herramientas](https://via.placeholder.com/100) |
 
 ---
 
-✨ *Innovación y confianza en cada llave que hacemos*  
+## 🚀 ¿Por qué elegirnos?
+✅ Experiencia en sistemas inmovilizadores.  
+✅ Atención rápida y confiable.  
+✅ Herramientas profesionales de última generación.  
 
-<!-- Imagen en la misma carpeta -->
-<img src="logo.png" alt="Logo Cerrajería Barbosa" width="200">
+---
 
-<!-- Imagen en subcarpeta -->
-<img src="img/llaves.jpg" alt="Llaves programadas" width="300">
-
-<!-- Imagen desde enlace externo -->
-<img src="https://tusitio.com/imagen.jpg" alt="Servicios de cerrajería" width="400">
+## 📩 Contacto Rápido
+```md
+📞 314 481 6095  
+📱 WhatsApp: 322 949 5816  
 
